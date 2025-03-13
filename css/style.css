@@ -1,0 +1,13 @@
+*{
+    background-color: wheat;
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+#main{
+    color: black;
+    font-weight: bold;
+}
+
+ul{
+    color: black;
+    font-weight: 200;
+}
