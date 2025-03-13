@@ -12,13 +12,32 @@ img{
     font-weight: bold;
     color: brown;
 }
-
+.header.secondary{
+    font-weight: 600px;
+}
 .header.third{
 font-weight: 400px;
 font-style: italic;
+}
+
+.header.fourth{
+    font-weight: 350px;
+    font-style: oblique;
+    color: olive;
+}
+
+.header.fourth.prp{
+color:#36454F;
 }
 #home{
     color: brown;
     font-size: 18px;
     font-weight: 400px;
+}
+ul li{
+    color: olive;
+}
+
+ol li{
+    color: #36454F;
 }
