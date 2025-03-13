@@ -41,3 +41,10 @@ ul li{
 ol li{
     color: #36454F;
 }
+
+#steps li{
+    color: #36454F;
+}
+p.listed{
+    color: #36454F;
+}
